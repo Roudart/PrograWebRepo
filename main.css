@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    padding:10px;
+}
+h1{
+    background-color: blueviolet;
+}
+
+p{
+    font-size: xx-large;
+}
+
+#tenshi{
+    background-image: url('tenshi.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
